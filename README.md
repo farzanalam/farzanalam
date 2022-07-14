@@ -1,4 +1,4 @@
-<h1 align="center">[![MasterHead](https://bwnyasse.github.io/slides-presentations/slides-understanding-the-cloud-yaounde-february-2020-v1/img/cloud-gif-2.gif)](https://farzanalam.io)</h1>
+[![MasterHead](https://bwnyasse.github.io/slides-presentations/slides-understanding-the-cloud-yaounde-february-2020-v1/img/cloud-gif-2.gif)](https://farzanalam.io)
 <h1 align="center">Hi 👋, I'm Farzan Alam</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
